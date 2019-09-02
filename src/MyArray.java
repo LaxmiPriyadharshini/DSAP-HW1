@@ -3,7 +3,7 @@
  * Homework 1 MyArray
  *
  * Andrew ID: lsureshk
- * @author Laxmi PriyaDharshini
+ * @author Laxmi PriyaDharshini Suresh Kumar
  */
 
 public class MyArray {
